@@ -12,7 +12,7 @@ This is a dynamic problem anbd in this case will be solving using the tabulation
 If interested in my approach and comments I invite you to read the following post 
 in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/06/18/count-construct-tabulation/
 
 Keep in mind that one of the best ways to lears is to read and experiment.
 In addition remember that practice makes perfect.
